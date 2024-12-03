@@ -77,6 +77,6 @@
 - FastAPI сервис работает корректно
 
 ## Фото
-![predict_item_photo1](D:\КОД\py\Maga_HSE\ML\HW1\Photos\predict_item_1.png)
-![predict_item_photo2](D:\КОД\py\Maga_HSE\ML\HW1\Photos\predict_item_2.png)
-![predict_items_photo1](D:\КОД\py\Maga_HSE\ML\HW1\Photos\predict_items_1.png)
+![predict_item_photo1](photos\predict_item_1.png)
+![predict_item_photo2](photos\predict_item_2.png)
+![predict_items_photo1](photos\predict_items_1.png)
